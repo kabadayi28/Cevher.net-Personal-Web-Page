@@ -1,4 +1,4 @@
-# Cevher.net---Personal-Web-Page
+# Cevher.net - Personal-Web-Page
 My personal web page was created using the HML5UP Aerial theme.
 
 Web page link: https://cevher.net/
